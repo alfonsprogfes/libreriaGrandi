@@ -1,0 +1,33 @@
+.container{
+    background:;
+}
+.alineados{
+    display: inline-block;
+    border: solid 2px;
+}
+.imagen{
+    padding: 1%;
+}
+.proveedores{
+    background-color: #abc;
+}
+.icono{
+    width: 20px;
+    height: 20px;
+}
+.logotipo{
+    width: 80px;
+    height: 80px;
+}
+.iconoF{
+    width: 30px;
+    height: 30px;
+}
+.vinetas{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.espaciado{
+    margin: 5px;
+}
